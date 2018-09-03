@@ -67,7 +67,7 @@ footer{
   color: rgb(209, 210, 214);
   padding: 30px 20px;
 }
-@media screen
+@media (max-width: 768px)
   and (device-width: 360px)
   and (device-height: 640px)
   and (-webkit-device-pixel-ratio: 3) {

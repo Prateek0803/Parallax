@@ -72,6 +72,8 @@ footer{
 
   .pimg1,.pimg2,.pimg3{
   background-attachment:fixed;
+    -webkit-background-attachment: fixed;
+    -moz-background-attachment: fixed;
   }
 
   .section{

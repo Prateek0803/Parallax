@@ -68,21 +68,7 @@ footer{
   padding: 30px 20px;
 }
 @media (max-width: 768px)
-  and (device-width: 360px)
-  and (device-height: 640px)
-  and (-webkit-device-pixel-ratio: 3) {
-.pimg1{
-  min-height: 100%;
-}
-.pimg2{
-  min-height:400px;
-}
-.pimg3{
-  min-height:400px;
-}
-
-
-
+{
 
   .pimg1,.pimg2,.pimg3{
   position: relative;
@@ -90,7 +76,7 @@ footer{
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  background-attachment:fixed;
+  background-attachment:scroll;
   }
 
   .section{

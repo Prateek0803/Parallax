@@ -71,7 +71,7 @@ footer{
 {
 
   .pimg1,.pimg2,.pimg3{
-  background-attachment:scroll;
+  background-attachment:fixed;
   }
 
   .section{

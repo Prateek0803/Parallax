@@ -67,15 +67,10 @@ footer{
   color: rgb(209, 210, 214);
   padding: 30px 20px;
 }
-@media screen and (max-width: 768px)
+@media screen and (max-width: 1024px)
 {
 
   .pimg1,.pimg2,.pimg3{
-  position: relative;
-  opacity: 0.70;
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
   background-attachment:scroll;
   }
 
